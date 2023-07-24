@@ -3,6 +3,10 @@
 ## Description
 Da Trivia is a simple and fun True or False quiz app designed to test your knowledge on various topics. The app presents you with 10 easy and entertaining true or false questions that you can answer with just a tap. Challenge yourself and your friends to see who can get the highest score!
 
+### Click the download button below to download the app.
+[![Download Da Trivia App](screenshot/dl.png)](https://github.com/Conan-Codes/da-trivia/releases/download/1.0.0/da-trivia-v1.0.0.apk)
+
+
 ## Features
 - 10 True or False questions.
 - Easy and fun questions suitable for all ages.
